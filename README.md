@@ -1,12 +1,12 @@
-# Kevin's Data Analyst Portfolio
+# Kevin's Data Scientist Portfolio
 
 ## Description
 
-Bienvenue sur le portfolio de Kevin, Analyste de données ! Ce site web présente mes projets et compétences en analyse de données, incluant des visualisations interactives et des algorithmes de traitement de données. Vous trouverez des exemples de mon travail avec des outils tels que R, Python, SQL, Power BI, et R Shiny.
+Bienvenue sur le portfolio de Kevin, Data Scientist ! Ce site web présente mes projets et compétences en analyse de données, incluant des visualisations interactives et des algorithmes de traitement de données. Vous trouverez des exemples de mon travail avec des outils tels que R, Python, SQL, Power BI, et R Shiny.
 
 ## Objectifs
 
-- **Présentation Profession nelle** : Mettre en avant mes projets et compétences en tant qu'analyste de données.
+- **Présentation Professionnelle** : Mettre en avant mes projets et compétences en tant qu'analyste de données.
 - **Exposition des Projets** : Démontrer mes compétences à travers des projets réels et des études de cas.
 - **Connexion avec la Communauté** : Offrir un moyen de me contacter et de suivre mon travail via des réseaux sociaux et GitHub.
 
